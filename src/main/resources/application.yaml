@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/mvassoler/ead-config-server-repo
           default-label: main
           username: marcosvassoler@yahoo.com.br
-          password: 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
+          password: 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
 
 ead:
   configServer:
